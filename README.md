@@ -25,5 +25,8 @@ This Cinnamon applet replaces the default workspace switcher, offering enhanced 
 *   **Add/Remove Workspaces:** Right-click the applet and use "Add a new workspace" or "Remove the current workspace".
 *   **Expo Mode:** Right-click the applet and select "Manage workspaces (Expo)".
 
+## Credits
+
+*   **Cinnamon Workspace Switcher**
 
 
