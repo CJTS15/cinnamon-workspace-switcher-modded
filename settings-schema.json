@@ -1,0 +1,24 @@
+{
+    "display-type": {
+        "type": "combobox",
+        "default": "buttons",
+        "description": "Type of display",
+        "tooltip": "Note that the visual representation will only work if your panel is large enough to display it properly, otherwise the simple style will be used.",
+        "options": {
+            "Overview": "visual",
+            "Name": "buttons"
+        }
+    },
+    "scroll-behavior": {
+        "type": "combobox",
+        "default": "normal",
+        "description": "Scroll wheel behavior",
+        "tooltip": "Reverse or disable the direction of the scroll in the workspace list.",
+        "options": {
+            "Normal": "normal",
+            "Reversed": "reversed",
+            "Disabled": "disabled"
+        }
+    }
+}
+
