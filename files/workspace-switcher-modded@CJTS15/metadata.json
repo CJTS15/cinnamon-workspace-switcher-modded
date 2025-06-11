@@ -1,6 +1,6 @@
 {
- "uuid": "workspace-modded@CJTS15",
- "name": "Workspace Modded",
+ "uuid": "workspace-switcher-modded@CJTS15",
+ "name": "Workspace Switcher Modded",
  "description": "Add, remove, and rename workspaces. This is a modded version of the original workspace panel from cinnamon.",
  "icon": "cs-workspaces",
  "max-instances": -1,

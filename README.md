@@ -7,6 +7,19 @@ This Cinnamon applet replaces the default workspace switcher, offering enhanced 
 
 ![Demo](assets/demo.gif)
 
+## Installation
+
+*   **Clone this repository:** Clone this repository on your Download directory.
+```
+cd Downloads
+git clone git@github.com:CJTS15/cinnamon-workspace-switcher-modded.git
+```
+*   **Add to applets folder:** Move the cloned repository from Download folder to ./local/share/cinnamon/applets
+```
+sudo mv cinnamon-workspace-switcher-modded/files/workspace-switcher-modded .local/share/cinnamon/applets
+```
+*   **Enable applets:** Go to Settings>Applets. Select the Workspace Switcher Modded. That's it.
+
 ## Features
 
 *   **Replaces Default Switcher:** Provides a modern, customizable workspace switching experience.
@@ -27,7 +40,7 @@ This Cinnamon applet replaces the default workspace switcher, offering enhanced 
 
 ## Credits
 
-*   **Workspace Switcher** by [workspace-switcher@cinnamon.org](https://cinnamon-spices.linuxmint.com/)
-*   **Workspace Name** by [workspace-name@willurd](https://cinnamon-spices.linuxmint.com/applets/view/222)
+*   **Workspace Switcher:** by [workspace-switcher@cinnamon.org](https://cinnamon-spices.linuxmint.com/)
+*   **Workspace Name:** by [workspace-name@willurd](https://cinnamon-spices.linuxmint.com/applets/view/222)
 
 
