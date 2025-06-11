@@ -27,6 +27,7 @@ This Cinnamon applet replaces the default workspace switcher, offering enhanced 
 
 ## Credits
 
-*   **Cinnamon Workspace Switcher**
+*   **Workspace Switcher** by [workspace-switcher@cinnamon.org](https://cinnamon-spices.linuxmint.com/)
+*   **Workspace Name** by [workspace-name@willurd](https://cinnamon-spices.linuxmint.com/applets/view/222)
 
 
